@@ -1,0 +1,1 @@
+<?php Widgets( 'sidebar', GetThemeArgs( 'sidebar' ) ) ?><!-- #secondary -->

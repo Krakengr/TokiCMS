@@ -1,0 +1,61 @@
+{
+	"author": "Automattic",
+	"website": "https://wordpress.com/theme/penscratch-2/",
+	"version": "1.0",
+	"type": "normal",
+	"releaseDate": "2021-06-02",
+	"license": "MIT",
+	"compatible": "1.0",
+	"notes": "Ported to TokiCMS by BadTooth",
+	"settings": {
+		"show-social-menu-on-footer": {
+			"type": "checkbox",
+			"default-value": "false",
+			"tip": "show-social-menu-on-footer-tip"
+		},
+		"post-meta": {
+			"type": "select",
+			"multiselect": true,
+			"default-value": [
+				"author",
+				"categories",
+				"comments",
+				"post-date"
+			],
+			"values": [
+				"author",
+				"author-image",
+				"categories",
+				"comments",
+				"edit-link",
+				"post-date"
+			],
+			"tip": "post-meta-tip"
+		},
+		"enable-sidebar": {
+			"type": "checkbox",
+			"default-value": "true",
+			"tip": "enable-sidebar-tip"
+		},
+		"remove-zero-comments-on-post": {
+			"type": "checkbox",
+			"default-value": "false",
+			"tip": "remove-zero-comments-on-post-tip"
+		},
+		"display-author-details-box": {
+			"type": "checkbox",
+			"default-value": "true",
+			"tip": "display-author-details-tip"
+		},
+		"display-post-navigation": {
+			"type": "checkbox",
+			"default-value": "true",
+			"tip": "display-post-navigation-tip"
+		},
+		"display-featured-image": {
+			"type": "checkbox",
+			"default-value": "true",
+			"tip": "display-featured-image-tip"
+		}
+    }
+}

@@ -1,0 +1,26 @@
+{
+	"theme-data":
+	{
+		"name": "Clean Blog",
+		"description": "Clean Blog is a stylish, responsive blog theme for Bootstrap created by Start Bootstrap. This theme features a blog homepage, about page, contact page, and an example post page along with a working PHP contact form."
+	},
+	"options-data":
+	{
+		"show-breadcrumbs": "Show Breadcrumbs",
+		"show-breadcrumbs-tip": "Display breadcrumbs after the title on posts and pages.",
+		"disable-fallback-image": "Disable Fallback Image",
+		"disable-fallback-image-tip": "A default fallback image included in the theme will be used if the post has no featured image. The area will be replaced by a color.",
+		"enable-share-posts-button": "Enable sharing buttons to your posts",
+		"enable-share-posts-button-tip": "This option allows you to easily add social share buttons to your blog posts.",
+		"enable-portfolio": "Enable Portfolio",
+		"enable-portfolio-tip": "This option enables you to display your personal or company’s portfolio items.",
+		"portfolio-page": "Portfolio Page",
+		"portfolio-page-tip": "Choose the page you want the portfolio to be enabled. You can create a page named &quot;Showcase&quot; and show the portfolio in that page.",
+		"portfolio-blog": "Portfolio Blog",
+		"portfolio-blog-tip": "Choose the blog you want its posts to be displayed on your portfolio page. If you don't have any sub-blogs enabled or you don't select anything, the default categories will be used instead.",
+		"post-limit": "Post Limit",
+		"show-social-menu-on-footer": "Show Social Menu on Footer",
+		"show-social-menu-on-footer-tip": "Check to display the social menu on the footer. It will display the social information you have set in &quot;General settings&quot;",
+		"post-limit-tip": "Change the number of posts displayed on your portfolio page. Set '0' to show all the posts."
+	}
+}

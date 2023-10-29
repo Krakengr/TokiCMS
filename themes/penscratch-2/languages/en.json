@@ -1,0 +1,26 @@
+{
+	"theme-data":
+	{
+		"name": "Penscratch 2",
+		"description": "Penscratch 2 is a fresh, stylish design for sharing your writing. Whether you’re working on an analytical essay, an anthology of poems, or a piece of long-form fiction, Penscratch 2 makes for a pleasant reading and writing experience all around."
+	},
+	"options-data":
+	{
+		"enable-sidebar": "Enable sidebar",
+		"enable-sidebar-tip": "Check to show the sidebar.",
+		"remove-zero-comments-on-post": "Remove &quot;0 comments&quot; on a post",
+		"remove-zero-comments-on-post-tip": "Check to remove &quot;0 comments&quot; in the bottom of a post when there are no comments.",
+		"edit-link": "Edit link (for logged in users)",
+		"show-social-menu-on-footer": "Show Social Menu on Footer",
+		"show-social-menu-on-footer-tip": "Check to display the social menu on the footer. It will display the social information you have set in &quot;General settings&quot;",
+		"display-featured-image": "Display Featured Image",
+		"display-featured-image-tip": "Check to show featured image on single posts.",
+		"display-author-details-box": "Display Author Details Box",
+		"display-author-details-tip": "Check to show an author bio below the content on single posts.",
+		"display-post-navigation": "Display Post Navigation",
+		"display-post-navigation-tip": "Check to show navigation buttons below the content on single posts.",
+		"archive-post-meta": "Archive Post Meta",
+		"archive-post-meta-tip": "Select post meta to display on archive pages.",
+		"read-more-button": "Read More Button"
+	}
+}

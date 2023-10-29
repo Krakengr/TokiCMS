@@ -1,0 +1,58 @@
+{
+	"author": "Start Bootstrap",
+	"website": "https://startbootstrap.com/theme/clean-blog",
+	"version": "1.0",
+	"type": "normal",
+	"releaseDate": "2021-06-02",
+	"license": "MIT",
+	"compatible": "1.0",
+	"notes": "Ported to TokiCMS by BadTooth Studio",
+	"settings": {
+		"show-social-menu-on-footer": {
+			"type": "checkbox",
+			"default-value": "false",
+			"tip": "show-social-menu-on-footer-tip"
+		},
+		"enable-share-posts-button": {
+			"type": "checkbox",
+			"default-value": "false",
+			"tip": "enable-share-posts-button-tip"
+		},
+		"show-breadcrumbs": {
+			"type": "checkbox",
+			"default-value": "false",
+			"tip": "show-breadcrumbs-tip"
+		},
+		"disable-fallback-image": {
+			"type": "checkbox",
+			"default-value": "false",
+			"tip": "disable-fallback-image-tip"
+		},
+		"enable-portfolio": {
+			"type": "checkbox",
+			"default-value": "false",
+			"tip": "enable-portfolio-tip"
+		},
+		"post-limit": {
+			"type": "num",
+			"default-value": 8,
+			"min": 0,
+			"max": 30,
+			"tip": "post-limit-tip"
+		},
+		"portfolio-blog": {
+			"type": "select",
+			"data": "blogs",
+			"system": true,
+			"first-null": true,
+			"tip": "portfolio-blog-tip"
+		},
+		"portfolio-page": {
+			"type": "select",
+			"data": "pages",
+			"system": true,
+			"first-null": true,
+			"tip": "portfolio-page-tip"
+		}
+    }
+}
