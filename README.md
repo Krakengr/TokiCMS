@@ -9,6 +9,13 @@ Installation
 3. Fill all fields with the database credentials and the admin's data of the website
 4. The installation is complete
 
+Demos
+============
+1. https://akismpo.com/
+2. https://homebrewgr.info/
+3. https://lnxt.gr/
+4. https://solotraveler.xyz/
+
 Features
 ============
 
@@ -54,12 +61,12 @@ You are welcome to be part of the development of TokiCMS.
 
 Warning
 ============
-TokiCMS is an experemental CMS and an ongoing project.
+TokiCMS is an experemental CMS and an ongoing project. Although it works as a CMS, there are some features that are missing right now.
 
 Limitations
 ============
 * STILL IN DEVELOPMENT!!! Still testing and changing what I think needs to be changed or added.
 * No guide or developer resources available - yet
 * One-man work - for now
-* Administrator interface needs more work and some tweaking
-* Some features are missing at this moment
+* Administrator interface needs some work and tweaking
+* Some features are either missing or incomplete at this moment
