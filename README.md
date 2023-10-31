@@ -11,10 +11,10 @@ Installation
 
 Demos
 ============
-1. https://akismpo.com/
-2. https://homebrewgr.info/
-3. https://lnxt.gr/
-4. https://solotraveler.xyz/
+* https://akismpo.com/
+* https://homebrewgr.info/
+* https://lnxt.gr/
+* https://solotraveler.xyz/
 
 Features
 ============
